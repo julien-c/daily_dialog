@@ -1,1 +1,1 @@
-nlp
+git+https://github.com/huggingface/nlp.git
